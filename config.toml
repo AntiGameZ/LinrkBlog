@@ -4,7 +4,7 @@ title = "AntiGameZ's Blog"
 author = "Sijie (Alex) Chen"
 theme = "hugo-pacman-theme"
 RSSUri = "feed.xml"
-baseurl = "https://www.linrk.com/"
+baseurl = "http://www.linrk.com/"
 pygmentsStyle = "default"
 pygmentsUseClasses = true
 
