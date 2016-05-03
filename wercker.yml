@@ -1,14 +1,14 @@
 box: debian
-build:
+  build:
     steps:
-        - arjen/hugo-build:
-            theme: "hugo-pacman-theme"
-deploy:
+      - arjen/hugo-build:
+          theme: "hugo-pacman-theme"
+  deploy:
     steps:
-        - install-packages:
-            packages: git ssh-client
-        - leipert/git-push:
-            gh_oauth: $GIT_TOKEN
-            repo: AntiGameZ/antigamez.github.io
-            branch: master
-            basedir: public
+      - install-packages:
+          packages: git ssh-client
+      - leipert/git-push:
+          gh_oauth: $GIT_TOKEN
+          repo: AntiGameZ/antigamez.github.io
+          branch: master
+          basedir: public
