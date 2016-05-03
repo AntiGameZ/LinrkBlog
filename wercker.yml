@@ -21,6 +21,7 @@ build:
     # http://devcenter.wercker.com/docs/steps/index.html
   steps:
     - arjen/hugo-build:
+      theme: hugo-pacman-theme
       flags: --buildDrafts=true
 deploy:
   steps:
