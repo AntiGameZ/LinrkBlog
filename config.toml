@@ -1,7 +1,6 @@
 baseurl = "https://github.com/AntiGameZ/LinrkBlog"
 languageCode = "zh-CN"
 hasCJKLanguage = true
-theme = "hugo-pacman-theme"
 title = "AntiGameZ's Blog"
 author = "Sijie (Alex) Chen"
 RSSUri = "feed.xml"
