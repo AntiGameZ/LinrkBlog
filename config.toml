@@ -4,7 +4,7 @@ hasCJKLanguage = true
 title = "AntiGameZ's Blog"
 author = "Sijie (Alex) Chen"
 RSSUri = "feed.xml"
-canonifyurls: true
+canonifyurls =  true
 
 [Params]
     twitter = "antigamez"
