@@ -28,6 +28,8 @@ deploy:
       code: |-
         cd public
         echo "www.linrk.com" > CNAME
+        git init
+        git add .
     - leipert/git-push:
         gh_oauth: $GIT_TOKEN
         repo: AntiGameZ/antigamez.github.io
