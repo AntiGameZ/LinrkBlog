@@ -18,6 +18,7 @@ build:
             git submodule update --init --recursive
     - arjen/hugo-build:
         theme: "hugo-pacman-theme"
+        flags: --buildDrafts=true
 deploy:
   steps:
     - install-packages:
