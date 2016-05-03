@@ -5,7 +5,6 @@ author = "Sijie (Alex) Chen"
 theme = "hugo-pacman-theme"
 RSSUri = "feed.xml"
 baseurl = "antigamez.github.io"
-canonifyurls = true
 
 [Params]
     twitter = "antigamez"
