@@ -23,6 +23,11 @@ deploy:
   steps:
     - install-packages:
         packages: git ssh-client
+    - script:
+      name: Add CNAME
+      code: |-
+        cd public
+        echo "www.linrk.com" > CNAME
     - leipert/git-push:
         gh_oauth: $GIT_TOKEN
         repo: AntiGameZ/antigamez.github.io
