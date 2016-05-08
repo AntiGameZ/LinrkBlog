@@ -2,6 +2,7 @@
 date = "2016-04-16T17:09:56+08:00"
 draft = true
 title = "USC 2016 fall 新生入学问题汇总"
+author = "Sijie Chen"
 tags = ["USC", "2016 fall"]
 categories = ["美国留学"]
 +++
@@ -35,6 +36,7 @@ Viterbi 学院关于各项费用的说明请参考：https://gapp.usc.edu/gradua
 **注意：** Viterbi 的学费已经是 $1845/unit，而不是去年的 $1774/unit。
 
 感谢 **Wilson Huang** 关于 **LLM (Master of Laws)** 项目的补充：
+
 * 2016 Fall资费信息已更新：http://classes.usc.edu/term-20163/tuition-and-fees/ 
 * 法学院 LLM 占位费500刀； 
 * 法学院这边发财力证明不需要冻结资金，时点证明即可；
