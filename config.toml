@@ -8,6 +8,9 @@ baseurl = "http://www.linrk.com/"
 pygmentsStyle = "default"
 pygmentsUseClasses = true
 
+[Author]
+    Name = "Sijie Chen"
+
 [Params]
     twitter = "antigamez"
     github = "antigamez"

@@ -2,7 +2,6 @@
 date = "2016-04-16T17:09:56+08:00"
 draft = true
 title = "USC 2016 fall 新生入学问题汇总"
-author = "Sijie Chen"
 tags = ["USC", "2016 fall"]
 categories = ["美国留学"]
 +++
