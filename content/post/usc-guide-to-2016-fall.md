@@ -23,11 +23,12 @@ categories = ["美国留学"]
 ## 2. USC 有没有占位费，什么时候是接受录取的最后期限？
 Viterbi 学院不需要占位费，欢迎其他学院的同学补充此点。考虑到 I-20 表格上要求的最迟入学时间为 8月 8日，建议尽早办理。
 
-法学院 LLM (Master of Laws) 项目，占位费 500 刀（感谢 **Wilson Huang** 的补充)。
+法学院 LLM (Master of Laws) 项目，占位费 500 刀（感谢 **Wilson Huang** 的补充）。
 
 ## 3. 入学前需要做什么
 Viterbi 学院官网提供了一个入学准备的 Checklist: https://gapp.usc.edu/students/masters/newly-admitted/nextsteps 注意一下要看“International Students”那部分的内容。建议可以将 Checklist 复制到 Evernote 或者 OneNote 里，做完一项，勾掉一项。
 (补截图，补evernote里的截图)
+
 ## 4. 学费是多少，生活费呢？
 学校官方关于各项费用的详细说明请参考（注意：2016 fall的资费信息未更新）：http://web-app.usc.edu/ws/soc_archive/soc/term-20153/tuition-and-fees 
 学校还提供了一个各专业 I-20 上注明开销的 PDF：https://www.usc.edu/admission/graduate/docs/2016-17I-20EXPENSESINFO_V.3.pdf
@@ -37,10 +38,13 @@ Viterbi 学院关于各项费用的说明请参考：https://gapp.usc.edu/gradua
 
 感谢 **Wilson Huang** 关于 **LLM (Master of Laws)** 项目的补充：
 
-* 2016 Fall资费信息已更新：http://classes.usc.edu/term-20163/tuition-and-fees/ 
-* 法学院 LLM 占位费500刀； 
-* 法学院这边发财力证明不需要冻结资金，时点证明即可；
-* NetID LLM 这边收到的回复是 "You will not be able to access your USC NetID until the summer when your USC email account has been created."
+1. 2016 Fall资费信息已更新：http://classes.usc.edu/term-20163/tuition-and-fees/ 
+
+2. 法学院 LLM 占位费500刀； 
+
+3. 法学院这边发财力证明不需要冻结资金，时点证明即可；
+
+4. NetID LLM 这边收到的回复是 "You will not be able to access your USC NetID until the summer when your USC email account has been created."
 
 
 ## 5. 应该提交什么样的财力文件，资产需要冻结吗？
