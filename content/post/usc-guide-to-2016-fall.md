@@ -11,7 +11,7 @@ categories = ["美国留学"]
 其他参考资源：
 
 * 14 Fall Slyar 博客中[《美国留学及USC Master新生相关问题解答》](https://www.slyar.com/blog/usc-question-answer.html) 一文（文章针对 2014 fall）。
-* 16 Fall 同学 Jerry 整理的 [USC 官方 Todo List 中文翻译](https://github.com/hot13399/USC_CS_MS/blob/master/USC_ToDo_List.md)，[办理F1签证的步骤和注意事项](https://github.com/hot13399/USC_CS_MS/blob/master/HowToVisa.md)。
+* 16 Fall 同学 Jerry 整理的[《USC 官方 Todo List 中文翻译》](https://github.com/hot13399/USC_CS_MS/blob/master/USC_ToDo_List.md)，[《办理F1签证的步骤和注意事项》](https://github.com/hot13399/USC_CS_MS/blob/master/HowToVisa.md)。
 
 
 ## 1. 收到 Academic Elegibile Decision 后，如何获得正式录取？
