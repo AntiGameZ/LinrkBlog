@@ -29,12 +29,12 @@ Viterbi 学院不需要占位费，欢迎其他学院的同学补充此点。考
 
 ## 3. 入学前需要做什么
 Viterbi 学院官网提供了一个入学准备的 Checklist: https://gapp.usc.edu/students/masters/newly-admitted/nextsteps 注意一下要看“International Students”那部分的内容。建议可以将 Checklist 复制到 Evernote 或者 OneNote 里，做完一项，勾掉一项。
-(补截图，补evernote里的截图)
 
 ## 4. 学费是多少，生活费呢？
-学校官方关于各项费用的详细说明请参考（注意：2016 fall的资费信息未更新）：http://web-app.usc.edu/ws/soc_archive/soc/term-20153/tuition-and-fees 
-学校还提供了一个各专业 I-20 上注明开销的 PDF：https://www.usc.edu/admission/graduate/docs/2016-17I-20EXPENSESINFO_V.3.pdf
-Viterbi 学院关于各项费用的说明请参考：https://gapp.usc.edu/graduate-programs/graduate-funding/masters/tuition
+
+* 学校官方关于各项费用的详细说明请参考（注意：2016 fall的资费信息未更新）：http://web-app.usc.edu/ws/soc_archive/soc/term-20153/tuition-and-fees 
+* 学校还提供了一个各专业 I-20 上注明开销的 PDF：https://www.usc.edu/admission/graduate/docs/2016-17I-20EXPENSESINFO_V.3.pdf
+* Viterbi 学院关于各项费用的说明请参考：https://gapp.usc.edu/graduate-programs/graduate-funding/masters/tuition
 
 **注意：** Viterbi 的学费已经是 $1845/unit，而不是去年的 $1774/unit。
 
@@ -76,12 +76,12 @@ I-20 上的要求是 2016年 8月 8日，建议在此日期前入境，如果实
 
 国内对于 MMR 疫苗接种是强制要求，各地疾控中心对于婴幼儿免费接种，不过没有我们这些已经年满 18 岁的人什么事儿。如果想打，需要去各地国际旅行为生保健中心接种，比较坑爹的是，一般你并不能直接打疫苗，必须先花钱体检。总体费用各地不同。
 
-在 USC 打针保险可以兜底，刚去的人因为保险还未生效，可以等保险生效后再打，不影响学校的入学和选课。价格也比国内便宜。
+在 USC 打针保险可以兜底，刚去的人因为保险还未生效，可以等保险生效后再打，不影响学校的入学和选课。也不用多花冤枉钱。
 
 至于红黄本，也就是国际旅行健康检查证明书（红本），和疫苗接种或预防措施国际证书（黄本），其实可以都不办理（**注意看下面的详细说明！**），原因如下：
 
 * 去 USC 打 MMR，那么黄本直接就没有存在的意义了；
-* 红本的法理依据，是[《中华人民共和国国境卫生检疫法实施细则》](http://www.gov.cn/flfg/2010-04/27/content_1594506.htm)中，第一百零二条规定的，条款提到：“凡申请出境居住1年以上的中国籍人员，必须持有卫生检疫机关签发的健康证明。中国公民出境、入境管理机关凭卫生检疫机关签发的健康证明办理出境手续。”。同时，上海出入境检疫局，在 2014年 5月 26日发布了［“对乘飞机的出境旅客如何进行检验查验”］(http://www.shciq.gov.cn/tslm/wsjg_1057/cjwt_1059/201405/t20140526_33352.shtml) 中提到：“对不具备有效《健康证书》者，应记录其相关信息后**放行**。”。
+* 红本的法理依据，是[《中华人民共和国国境卫生检疫法实施细则》](http://www.gov.cn/flfg/2010-04/27/content_1594506.htm)中，第一百零二条规定的，条款提到：“凡申请出境居住1年以上的中国籍人员，必须持有卫生检疫机关签发的健康证明。中国公民出境、入境管理机关凭卫生检疫机关签发的健康证明办理出境手续。”。同时，上海出入境检疫局，在 2014年 5月 26日发布了 [“对乘飞机的出境旅客如何进行检验查验”](http://www.shciq.gov.cn/tslm/wsjg_1057/cjwt_1059/201405/t20140526_33352.shtml) 中提到：“对不具备有效《健康证书》者，应记录其相关信息后**放行**。”。
 
 那么对于红本是否需要的结论已经很清楚了：
 * 如果你出国不满 1年，则不需要。广大 LLM 的同学直接可以忽略它；
