@@ -93,10 +93,10 @@ I-20 上的要求是 2016年 8月 8日，建议在此日期前入境，如果实
 
 感谢 **Wilson Huang** 关于法学院 LLM 项目的补充：
 
->> 法学院LLM summer课程的费用包含医保，所以读summer的LLM同学可以7月提前去接种疫苗和做TB test。
->> 
->> 询问小米回复如下：
->> Yes, to confirm, you will be covered by the USC Health Center and USC Health insurance during your enrollment in our Summer Law & English Program.
+> 法学院LLM summer课程的费用包含医保，所以读summer的LLM同学可以7月提前去接种疫苗和做TB test。
+> 
+> 询问小米回复如下：
+> Yes, to confirm, you will be covered by the USC Health Center and USC Health insurance during your enrollment in our Summer Law & English Program.
 Therefore, you can complete your immunizations on-campus, upon arrival to USC.
 
 ## 8. 无法激活 Net ID
