@@ -21,8 +21,6 @@ build:
         flags: --buildDrafts=true
 deploy:
   steps:
-    - install-packages:
-        packages: ssh-client
     - script:
       name: Add CNAME
       code: |-
