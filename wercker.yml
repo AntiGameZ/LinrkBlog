@@ -21,15 +21,7 @@ build:
         flags: --buildDrafts=true
 deploy:
   steps:
-    - script:
-      name: Add CNAME
-      code: |-
-        cd public
-        echo "www.linrk.com" > CNAME
-        git init
-        git add .
-    - leipert/git-push:
-        gh_oauth: $GIT_TOKEN
-        repo: AntiGameZ/antigamez.github.io
-        branch: master
+    - gh-pages:
+        token: $GIT_TOKEN
+        domain: www.linrk.com
         basedir: public
