@@ -22,7 +22,7 @@ build:
 deploy:
   steps:
     - install-packages:
-        packages: perl-base perl liberror-perl git ssh-client
+        packages: ssh-client
     - script:
       name: Add CNAME
       code: |-
