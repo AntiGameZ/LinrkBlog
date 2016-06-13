@@ -2,7 +2,7 @@ box: debian
 build:
   steps:
     - script:
-        name: install git
+        name: install git 
         code: |
             apt-get update
             apt-get install git -y
@@ -22,7 +22,7 @@ build:
 deploy:
   steps:
     - install-packages:
-        packages: git ssh-client
+        packages: liberror-perl git ssh-client
     - script:
       name: Add CNAME
       code: |-
