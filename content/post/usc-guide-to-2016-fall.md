@@ -66,7 +66,7 @@ officer or official.
 特别提醒，**冻结资产是不需要的**，学校也并非强制要求提交银行开具的**资产证明**，考虑到多数银行对于开具所谓的资产证明，都需要缴纳费用（部分银行高端客户可以免除，比如招行金葵花，交行沃德等）。而且会有强制冻结资产的要求。
 
 ## 6. 何时应该到校
-I-20 上的要求是 2016年 8月 8日，建议在此日期前入境，如果实在无法在此时间之前到校，请务必先和学校的 OIS(Office of International Services) 部门联系，他们的邮箱是：ois@usc.edu，电话是：(213) 740-2666
+I-20 上的要求是 2016年 8月 8日，建议在此日期前入境，如果实在无法在此时间之前到校，请务必提前联系 GAPP Office，他们的邮箱是 masters@gapp.usc.edu，联系时请务必包含具体原因和自己的 USC-ID。
 
 ## 7. 是否需要打疫苗，是否需要办理红黄本
 学校官方对 Immunizations and Screenings 的要求在：https://engemannshc.usc.edu/medical/immunization-clinic/required/
