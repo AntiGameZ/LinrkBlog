@@ -68,7 +68,7 @@ Viterbi 学院 Orientation 注册链接，[请点击这里](http://tools.uscden.
 
 > (1) **A nonresident over the age of 18 years** having in his or her immediate possession **a valid driver's license issued by a foreign jurisdiction** of which he or she is a resident, except as provided in Section 12505.
 
-F1/F2/J1/J2 都是属于 nonresident 范畴，所以如果你有中国驾照，随身带着自己的中国驾照和护照，是可以开车的。但是考虑到现实生活中的不便，还说尽早办理加州驾照吧。
+F1/F2/J1/J2 都是属于 nonresident 范畴，所以如果你有中国驾照，随身带着自己的中国驾照和护照，是可以开车的。但是考虑到现实生活中的不便，还是尽早办理加州驾照吧。
 
 ## 27.如何获取电子版的Official Admission Letter？
 
