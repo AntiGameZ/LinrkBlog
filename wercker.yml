@@ -21,8 +21,20 @@ build:
         flags: --buildDrafts=true
 deploy:
   steps:
-    - lukevivier/gh-pages:
-        token: $GIT_TOKEN
-        domain: www.linrk.com
-        basedir: public
+    - script:
+        name: install git 
+        code: |
+            apt-get update
+            apt-get install git -y
+    - script:
+      name: Add CNAME
+      code: |-
+        cd public
+        echo "www.linrk.com" > CNAME
+        git init
+        git add .
+    - leipert/git-push:
+        gh_oauth: $GIT_TOKEN
         repo: AntiGameZ/antigamez.github.io
+        branch: master
+        basedir: public
