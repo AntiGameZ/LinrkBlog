@@ -51,7 +51,7 @@ IERF 并没有要求
 
 > Note: Official certified copies of the graduation and degree certificates may only be accepted if mailed to IERF directly from the school. Otherwise, the original booklets must be submitted.
 
-也就是说，如果你可以让学校官方帮你即送你的学位证、毕业证复印件（这个复印件需要学校盖章，因为要求是 Certified 的），IERF 就可以网开一面不要你的原件。
+也就是说，如果你可以让学校官方帮你寄送你的学位证、毕业证复印件（这个复印件需要学校盖章，因为要求是 Certified 的），IERF 就可以网开一面不要你的原件。
 
 ## 9. 我的 IERF 认证时间点
 
