@@ -67,6 +67,6 @@ IERF 在 5 月 11 日发邮件告诉我收到了我的材料，邮件说到：
 
 > Your evaluation is almost complete and is being reviewed by a senior evaluator. It should be mailed shortly. 
 
-6 月 1 日告诉我认证已经搞定了（DHL上查到的是 6 月 1 日寄出）
+6 月 1 日告诉我认证已经搞定了（DHL上查到的是 5 月 31 日寄出）
 
 > Your evaluation was mailed on Tuesday, May 31, 2016. It was sent via DHL XXXXXXXX. For more information, please visit the DHL website at http://www.dhl-usa.com/home/home.asp after 6:00 pm PST (please note that you will not be able to track your package before then). A copy of your evaluation was also sent to University of Southern California Degree Progress . It was sent via secure delivery and should be available to the recipient shortly. 
