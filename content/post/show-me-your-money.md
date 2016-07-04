@@ -154,9 +154,9 @@ USC 的学费，基本上来说是按照学期，以及你这个学期选了多�
 
 很多人一到洛杉矶就要开启买买买模式了，美国不比咱天朝，什么都包邮。Amazon Prime Student Membership 提供 6 个月免费的 2 日送达服务。
 
-**[点击此链接注册](https://www.amazon.com/gp/student/signup/info?ie=UTF8&refcust=C3RPC7STEHMM2TEJMSPPJCJQIM&ref_type=generic&ref=sm_st_ref_g_gen)** 你我都可以得到 10 美元。
+**[点击此链接注册](https://www.amazon.com/gp/student/signup/info?ie=UTF8&refcust=C3RPC7STEHMM2TEJMSPPJCJQIM&ref_type=generic&ref=sm_st_ref_g_gen)** 你我都可以得到 10 美元的同时，享受免费 2 日速达服务～
 
-特别说明，这项服务本来收费 98 美元／年，学生折扣 50％，为 49 美元／年。
+特别说明哦，这项服务本来收费 98 美元／年。学生折扣 50％，为 49 美元／年。费用只会在 6 个月免费试用期结束后才会收取，并且随时可以按比例退款。
 
 
 
