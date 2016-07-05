@@ -47,7 +47,7 @@ IERF 并没有要求
 
 ## 8. 能不能不寄学位证、毕业证原件？
 
-**Update 2016.07.06:** 根据最新（Jul 16）IERF 关于中国学生需要提交文件的要求，原来可以由学校寄送复印件方式的附加说明已经删去。
+**Update 2016.07.06:** 根据最新（Jul, 2016）IERF 关于中国学生需要提交文件的要求，原来可以由学校寄送复印件方式的附加说明已经删去。
 
 ~~理论上可以，因为 IERF 在专门针对中国学生的[材料要求](http://www.ierf.org/wp-content/uploads/2016/04/USCCountry-SpecificRequirements.pdf) 中写道：~~
 
