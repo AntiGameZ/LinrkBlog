@@ -47,11 +47,13 @@ IERF 并没有要求
 
 ## 8. 能不能不寄学位证、毕业证原件？
 
-理论上可以，因为 IERF 在专门针对中国学生的[材料要求](http://www.ierf.org/wp-content/uploads/2016/04/USCCountry-SpecificRequirements.pdf) 中写道：
+**Update 2016.07.06:** 根据最新（Jul 16）IERF 关于中国学生需要提交文件的要求，原来可以由学校寄送复印件方式的附加说明已经删去。
 
-> Note: Official certified copies of the graduation and degree certificates may only be accepted if mailed to IERF directly from the school. Otherwise, the original booklets must be submitted.
+~~理论上可以，因为 IERF 在专门针对中国学生的[材料要求](http://www.ierf.org/wp-content/uploads/2016/04/USCCountry-SpecificRequirements.pdf) 中写道：~~
 
-也就是说，如果你可以让学校官方帮你寄送你的学位证、毕业证复印件（这个复印件需要学校盖章，因为要求是 Certified 的），IERF 就可以网开一面不要你的原件。
+> ~~Note: Official certified copies of the graduation and degree certificates may only be accepted if mailed to IERF directly from the school. Otherwise, the original booklets must be submitted.~~
+
+~~也就是说，如果你可以让学校官方帮你寄送你的学位证、毕业证复印件（这个复印件需要学校盖章，因为要求是 Certified 的），IERF 就可以网开一面不要你的原件。~~
 
 ## 9. 我的 IERF 认证时间点
 
