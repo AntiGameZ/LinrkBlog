@@ -1,6 +1,5 @@
 +++
 date = "2016-04-16T17:09:56+08:00"
-draft = true
 title = "USC 2016 fall 新生入学问题汇总"
 tags = ["USC", "2016 fall"]
 categories = ["美国留学"]
@@ -10,8 +9,8 @@ categories = ["美国留学"]
 
 其他参考资源：
 
-* 14 Fall Slyar 博客中[《美国留学及USC Master新生相关问题解答》](https://www.slyar.com/blog/usc-question-answer.html) 一文（文章针对 2014 fall）。
-* 16 Fall 同学 Jerry 整理的[《USC 官方 Todo List 中文翻译》](https://github.com/hot13399/USC_CS_MS/blob/master/USC_ToDo_List.md)，[《办理F1签证的步骤和注意事项》](https://github.com/hot13399/USC_CS_MS/blob/master/HowToVisa.md)。
+* 14 Fall Slyar 博客中[《美国留学及USC Master新生相关问题解答》][1] 一文（文章针对 2014 fall）。
+* 16 Fall 同学 Jerry 整理的[《USC 官方 Todo List 中文翻译》][2]，[《办理F1签证的步骤和注意事项》][3]。
 
 
 ## 1. 收到 Academic Elegibile Decision 后，如何获得正式录取？
@@ -32,25 +31,21 @@ Viterbi 学院官网提供了一个入学准备的 Checklist: https://gapp.usc.e
 
 ## 4. 学费是多少，生活费呢？
 
-* 学校官方关于各项费用的详细说明请参考（注意：2016 fall的资费信息未更新）：http://web-app.usc.edu/ws/soc_archive/soc/term-20153/tuition-and-fees 
-* 学校还提供了一个各专业 I-20 上注明开销的 PDF：https://www.usc.edu/admission/graduate/docs/2016-17I-20EXPENSESINFO_V.3.pdf
+* 学校官方关于各项费用的详细说明请参考（注意：2016 fall的资费信息未更新）：http://web-app.usc.edu/ws/soc\_archive/soc/term-20153/tuition-and-fees 
+* 学校还提供了一个各专业 I-20 上注明开销的 PDF：https://www.usc.edu/admission/graduate/docs/2016-17I-20EXPENSESINFO\_V.3.pdf
 * Viterbi 学院关于各项费用的说明请参考：https://gapp.usc.edu/graduate-programs/graduate-funding/masters/tuition
 
 **注意：** Viterbi 的学费已经是 $1845/unit，而不是去年的 $1774/unit。
 
 感谢 **Wilson Huang** 关于 **LLM (Master of Laws)** 项目的补充：
 
-1. 2016 Fall资费信息已更新：http://classes.usc.edu/term-20163/tuition-and-fees/ 
-
-2. 法学院 LLM 占位费500刀； 
-
+1. 2016 Fall资费信息已更新：http://classes.usc.edu/term-20163/tuition-and-fees/
+2. 法学院 LLM 占位费500刀；
 3. 法学院这边发财力证明不需要冻结资金，时点证明即可；
-
 4. NetID LLM 这边收到的回复是 "You will not be able to access your USC NetID until the summer when your USC email account has been created."
 
-
 ## 5. 应该提交什么样的财力文件，资产需要冻结吗？
-首先请参考学校的官方文件：[USC Guidelines for Submitting Proof of Financial Support](https://www.usc.edu/admission/graduate/docs/GuidelinesforSubmittingProofofFinancialSupport.pdf)，以及[Submitting Financial Documents](https://www.usc.edu/admission/graduate/international/financialsupport.html)
+首先请参考学校的官方文件：[USC Guidelines for Submitting Proof of Financial Support][4]，以及[Submitting Financial Documents][5]
 
 文件中对 Financial Documents 的要求包括：
 
@@ -60,7 +55,7 @@ Viterbi 学院官网提供了一个入学准备的 Checklist: https://gapp.usc.e
 officer or official.
 * Must state the available final balance/total scholarship amount
 * Certified, professional translations for all financial documents not issued in English.
-* If account holder is someone other than student, include Sponsorship letter OR Affidavit of Support. The letter must state the account holder and student’s name, current date, and relationship between student and sponsor. Alternately, [**Form 4: Confidential Statement for Financing Studies at USC**](https://www.usc.edu/admission/graduate/docs/11_Form4_2.pdf) can be submitted in lieu of a sponsorship letter/affidavit.
+* If account holder is someone other than student, include Sponsorship letter OR Affidavit of Support. The letter must state the account holder and student’s name, current date, and relationship between student and sponsor. Alternately, [**Form 4: Confidential Statement for Financing Studies at USC**][6] can be submitted in lieu of a sponsorship letter/affidavit.
 
 实际操作中，建议直接提交银行账户流水。招商银行，中国银行，工商银行等，一般都提供双语流水单。所谓双语流水单，只要"户名"，"余额" 这些关键部分是双语即可，并非要求所有出现中文的地方都要有英文。如果实在无法开具到双语流水单，可以自己复印后在复印件上手写添加翻译内容，并在每页边角处用英文写上是谁翻译的，并签署日期。
 特别提醒，**冻结资产是不需要的**，学校也并非强制要求提交银行开具的**资产证明**，考虑到多数银行对于开具所谓的资产证明，都需要缴纳费用（部分银行高端客户可以免除，比如招行金葵花，交行沃德等）。而且会有强制冻结资产的要求。
@@ -81,7 +76,7 @@ I-20 上的要求是 2016年 8月 8日，建议在此日期前入境，如果实
 至于红黄本，也就是国际旅行健康检查证明书（红本），和疫苗接种或预防措施国际证书（黄本），其实可以都不办理（**注意看下面的详细说明！**），原因如下：
 
 * 去 USC 打 MMR，那么黄本直接就没有存在的意义了；
-* 红本的法理依据，是[《中华人民共和国国境卫生检疫法实施细则》](http://www.gov.cn/flfg/2010-04/27/content_1594506.htm)中，第一百零二条规定的，条款提到：“凡申请出境居住1年以上的中国籍人员，必须持有卫生检疫机关签发的健康证明。中国公民出境、入境管理机关凭卫生检疫机关签发的健康证明办理出境手续。”。同时，上海出入境检疫局，在 2014年 5月 26日发布了 [“对乘飞机的出境旅客如何进行检验查验”](http://www.shciq.gov.cn/tslm/wsjg_1057/cjwt_1059/201405/t20140526_33352.shtml) 中提到：“对不具备有效《健康证书》者，应记录其相关信息后**放行**。”。
+* 红本的法理依据，是[《中华人民共和国国境卫生检疫法实施细则》][7]中，第一百零二条规定的，条款提到：“凡申请出境居住1年以上的中国籍人员，必须持有卫生检疫机关签发的健康证明。中国公民出境、入境管理机关凭卫生检疫机关签发的健康证明办理出境手续。”。同时，上海出入境检疫局，在 2014年 5月 26日发布了 [“对乘飞机的出境旅客如何进行检验查验”][8] 中提到：“对不具备有效《健康证书》者，应记录其相关信息后**放行**。”。
 
 那么对于红本是否需要的结论已经很清楚了：
 
@@ -98,10 +93,18 @@ I-20 上的要求是 2016年 8月 8日，建议在此日期前入境，如果实
 感谢 **Wilson Huang** 关于法学院 LLM 项目的补充：
 
 > 法学院LLM summer课程的费用包含医保，所以读summer的LLM同学可以7月提前去接种疫苗和做TB test。
-> 
 > 询问小米回复如下：
 > Yes, to confirm, you will be covered by the USC Health Center and USC Health insurance during your enrollment in our Summer Law & English Program.
 Therefore, you can complete your immunizations on-campus, upon arrival to USC.
 
 ## 8. 无法激活 Net ID
 请全程翻墙 ……
+
+[1]:	https://www.slyar.com/blog/usc-question-answer.html
+[2]:	https://github.com/hot13399/USC_CS_MS/blob/master/USC_ToDo_List.md
+[3]:	https://github.com/hot13399/USC_CS_MS/blob/master/HowToVisa.md
+[4]:	https://www.usc.edu/admission/graduate/docs/GuidelinesforSubmittingProofofFinancialSupport.pdf
+[5]:	https://www.usc.edu/admission/graduate/international/financialsupport.html
+[6]:	https://www.usc.edu/admission/graduate/docs/11_Form4_2.pdf
+[7]:	http://www.gov.cn/flfg/2010-04/27/content_1594506.htm
+[8]:	http://www.shciq.gov.cn/tslm/wsjg_1057/cjwt_1059/201405/t20140526_33352.shtml

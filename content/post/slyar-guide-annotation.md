@@ -1,12 +1,11 @@
 +++
 date = "2016-06-13T15:18:36+08:00"
-draft = true
 title = "关于Slyar的《美国留学及USC Master新生相关问题解答》注解"
 tags = ["USC", "2016 fall"]
 categories = ["美国留学"]
 +++
 
-[《美国留学及USC Master新生相关问题解答》](https://www.slyar.com/blog/usc-question-answer.html) 是目前网上最有价值的一篇 USC 新生入学指南。作者是 2014 Fall 的 Slyar 学长。今年是 2016 Fall，原文部分内容和 2 年后相比已有不同，我将重要不同点列在下面。同时，因为现在（撰写这篇文章的时候）还是 6 月初，会逐步更新抵达美国，注册入学，选课等部分信息。
+[《美国留学及USC Master新生相关问题解答》][1] 是目前网上最有价值的一篇 USC 新生入学指南。作者是 2014 Fall 的 Slyar 学长。今年是 2016 Fall，原文部分内容和 2 年后相比已有不同，我将重要不同点列在下面。同时，因为现在（撰写这篇文章的时候）还是 6 月初，会逐步更新抵达美国，注册入学，选课等部分信息。
 
 我会按照 Slyar 原文的排序进行注解，**没有变化的或暂时不知道情况的**则跳过，所以序号不连续是正常的，有新情况我会逐步补充。另加一个 Section 0，添加有关聊天软件群方面的内容。
 
@@ -34,7 +33,7 @@ categories = ["美国留学"]
 
 2016 Fall Viterbi 学院的 Orientation 定在 8 月 10 日。Viterbi 学院的学生只需要参加 8 月 10 日的 Orientation，不需要参加学校的 Orientation。
 
-Viterbi 学院 Orientation 注册链接，[请点击这里](http://tools.uscden.net/fallorientation/)。值得注意的是，2016 Fall 注册 Orientation 的网页与 Slyar 给的截图略有不同。（我已经注册过了，所以无法截图，请好心人补充截图...）
+Viterbi 学院 Orientation 注册链接，[请点击这里][2]。值得注意的是，2016 Fall 注册 Orientation 的网页与 Slyar 给的截图略有不同。（我已经注册过了，所以无法截图，请好心人补充截图...）
 
 ## 12.什么是D-Clearance？跟选课有什么关系？
 
@@ -52,28 +51,33 @@ Viterbi 学院 Orientation 注册链接，[请点击这里](http://tools.uscden.
 
 2016 Fall 的注册时间是 8 月 15 - 19 日，上课开始时间是 8 月 22 日。期末考试时间是 12 月 7 - 14 日。寒假时间是 12 月 15 日 - 1 月 8 日。
 
-更详细的版本，请查看学院的 [Academic Calendar 2016-2017](http://academics.usc.edu/calendar/2016-2017/)。
+更详细的版本，请查看学院的 [Academic Calendar 2016-2017][3]。
 
 ## 16.USC新生入学是否需要打疫苗？是否需要体检？USC是否有体检表？
 
 虽然 Slyar 写了，我还要再次强调一下，**USC没有体检表**，因为问的人实在是太多太多太多了。
 
-在此再提一句，是否办理红黄本，是个人选择问题，如果按照国家有关规定，确实是应该办理。但是**并非一定要办**。考虑到红黄本并不是一笔小钱，个中风险务必请大家自己衡量（办，花钱，但绝对不会有问题。不办，省钱，但是可能会有问题）。我是绝对不会去办的 :)。详细情况请见我的另一篇文章 [USC 2016 fall 新生入学问题汇总](http://www.linrk.com/post/usc-guide-to-2016-fall/) 中第 7 条所述。
+在此再提一句，是否办理红黄本，是个人选择问题，如果按照国家有关规定，确实是应该办理。但是**并非一定要办**。考虑到红黄本并不是一笔小钱，个中风险务必请大家自己衡量（办，花钱，但绝对不会有问题。不办，省钱，但是可能会有问题）。我是绝对不会去办的 :)。详细情况请见我的另一篇文章 [USC 2016 fall 新生入学问题汇总][4] 中第 7 条所述。
 
 ## 25.在加州如何考驾照？中国驾照可以使用么？
 
 中国驾照可以在加州正常使用。根据 CA Codes 12502 的规定：
 
 > (a) The following persons may **operate a motor vehicle in this state without obtaining a driver's license** under this code:
-
 > (1) **A nonresident over the age of 18 years** having in his or her immediate possession **a valid driver's license issued by a foreign jurisdiction** of which he or she is a resident, except as provided in Section 12505.
 
 F1/F2/J1/J2 都是属于 nonresident 范畴，所以如果你有中国驾照，随身带着自己的中国驾照和护照，是可以开车的。但是考虑到现实生活中的不便，还是尽早办理加州驾照吧。
 
 ## 27.如何获取电子版的Official Admission Letter？
 
-学校已经换了新的系统，请至 [You SC](http://you.usc.edu) 获取电子版的录取通知书。
+学校已经换了新的系统，请至 [You SC][5] 获取电子版的录取通知书。
 
 ## 30.USC读研究生需要多少学费？需要多少学分？每个学分多少钱？
 
 2016 Fall， Viterbi 学院每个学分的价格已经涨到 1845 美元。
+
+[1]:	https://www.slyar.com/blog/usc-question-answer.html
+[2]:	http://tools.uscden.net/fallorientation/
+[3]:	http://academics.usc.edu/calendar/2016-2017/
+[4]:	http://www.linrk.com/post/usc-guide-to-2016-fall/
+[5]:	http://you.usc.edu
